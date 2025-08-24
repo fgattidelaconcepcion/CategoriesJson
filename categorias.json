@@ -1,0 +1,4 @@
+{
+  "income": ["Sueldo", "Bonos", "Otros", "Freelance"],
+  "expense": ["Gimnasio", "Internet", "Celular", "Luz", "Agua", "Alquiler", "Supermercado", "Otros", "Transporte"]
+}
